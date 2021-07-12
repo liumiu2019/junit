@@ -12,7 +12,7 @@ public class YapiTokenConst {
 
     @Data
     public static class Yapi {
-        String token = "078ed28234717b0b6ac1cdaef79a1b2c7f49fb2f3bdc3d2494cf0440894ffa7c";
+        String token = "";
         Integer project = 442;
     }
 }
