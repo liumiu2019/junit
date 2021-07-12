@@ -1,9 +1,9 @@
-package com.xmw.component.unit.service;
+package com.junit.component.unit.service;
 
 import com.alibaba.fastjson.JSON;
-import com.xmw.component.unit.annotation.UnitApi;
-import com.xmw.component.unit.annotation.YapiEntityAttributes;
-import com.xmw.component.unit.entity.SaveReq;
+import com.junit.component.unit.annotation.UnitApi;
+import com.junit.component.unit.annotation.YapiEntityAttributes;
+import com.junit.component.unit.entity.SaveReq;
 import lombok.extern.slf4j.Slf4j;
 
 import java.lang.reflect.Field;

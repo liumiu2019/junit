@@ -1,11 +1,11 @@
-package com.xmw.component.unit.service;
+package com.junit.component.unit.service;
 
 import com.alibaba.fastjson.JSON;
-import com.xmw.component.unit.common.UnitSpringUtil;
-import com.xmw.component.unit.common.YapiTokenConst;
-import com.xmw.component.unit.entity.ResponseData;
-import com.xmw.component.unit.entity.SaveReq;
-import com.xmw.component.unit.feignService.YapiFeignService;
+import com.junit.component.unit.entity.ResponseData;
+import com.junit.component.unit.feignService.YapiFeignService;
+import com.junit.component.unit.common.UnitSpringUtil;
+import com.junit.component.unit.common.YapiTokenConst;
+import com.junit.component.unit.entity.SaveReq;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 

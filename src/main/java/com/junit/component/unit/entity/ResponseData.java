@@ -1,4 +1,4 @@
-package com.xmw.component.unit.entity;
+package com.junit.component.unit.entity;
 
 import lombok.Data;
 

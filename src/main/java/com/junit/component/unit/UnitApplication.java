@@ -1,4 +1,4 @@
-package com.xmw.component.unit;
+package com.junit.component.unit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

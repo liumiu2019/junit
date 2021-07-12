@@ -1,4 +1,4 @@
-package com.xmw.component.unit.common;
+package com.junit.component.unit.common;
 
 import lombok.Data;
 import org.springframework.context.annotation.Configuration;

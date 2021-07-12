@@ -1,4 +1,4 @@
-package com.xmw.component.unit;
+package com.junit.component.unit;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cloud.openfeign.EnableFeignClients;

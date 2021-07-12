@@ -1,6 +1,6 @@
-package com.xmw.component.unit.feignService;
+package com.junit.component.unit.feignService;
 
-import com.xmw.component.unit.entity.ListResp;
+import com.junit.component.unit.entity.ListResp;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

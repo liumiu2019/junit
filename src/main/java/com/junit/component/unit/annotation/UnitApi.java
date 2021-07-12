@@ -1,4 +1,4 @@
-package com.xmw.component.unit.annotation;
+package com.junit.component.unit.annotation;
 
 import java.lang.annotation.*;
 
