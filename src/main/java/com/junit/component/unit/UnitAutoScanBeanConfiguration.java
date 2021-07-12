@@ -10,8 +10,8 @@ import org.springframework.context.annotation.Configuration;
  * @author liuxiang
  */
 @Configuration
-@ComponentScan("com.xmw.component.unit")
-@EnableFeignClients(basePackages = {"com.xmw.component.unit.feignService"})
+@ComponentScan("com.junit.component.unit")
+@EnableFeignClients(basePackages = {"com.junit.component.unit.feignService"})
 @Slf4j
 public class UnitAutoScanBeanConfiguration {
     @Bean
